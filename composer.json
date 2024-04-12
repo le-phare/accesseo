@@ -43,23 +43,23 @@
     "require": {
         "php": ">=7.4",
         "brick/schema": "^0.1.1",
-        "symfony/css-selector": "^4.4|^5.1",
-        "symfony/dependency-injection": "^4.4|^5.1",
-        "symfony/dom-crawler": "^4.4|^5.1",
+        "symfony/css-selector": "^4.4|^5.1|^6.4",
+        "symfony/dependency-injection": "^4.4|^5.1|^6.4",
+        "symfony/dom-crawler": "^4.4|^5.1|^6.4",
         "symfony/http-client-contracts": "^1.1|^2.0",
-        "symfony/http-foundation": "^4.4|^5.1",
-        "symfony/http-kernel": "^4.4|^5.1",
+        "symfony/http-foundation": "^4.4|^5.1|^6.4",
+        "symfony/http-kernel": "^4.4|^5.1|^6.4",
         "symfony/service-contracts": "^1.1|^2.0",
         "symfony/string": "^5.3"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.17",
-        "symfony/console": "^4.4|^5.1",
-        "symfony/filesystem": "^4.4|^5.1",
-        "symfony/http-client": "^4.4|^5.1",
+        "symfony/console": "^4.4|^5.1|^6.4",
+        "symfony/filesystem": "^4.4|^5.1|^6.4",
+        "symfony/http-client": "^4.4|^5.1|^6.4",
         "symfony/phpunit-bridge": "^5.2",
-        "symfony/twig-bridge": "^4.4|^5.1",
-        "symfony/web-profiler-bundle": "^4.4|^5.1"
+        "symfony/twig-bridge": "^4.4|^5.1|^6.4",
+        "symfony/web-profiler-bundle": "^4.4|^5.1|^6.4"
     },
     "suggest": {
         "symfony/http-client": "HTTP Client implementation, used for broken link detection."
